@@ -1,0 +1,9 @@
+.layout {
+  background-color: rgb(135, 222, 210);
+  margin-top: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: 1px solid darkblue;
+  width: 80%;
+  margin: auto;
+}
